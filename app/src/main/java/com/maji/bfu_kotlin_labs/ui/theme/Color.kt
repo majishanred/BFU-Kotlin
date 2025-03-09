@@ -1,4 +1,4 @@
-package com.alkl1m.bfu_kotlin_labs.ui.theme
+package com.maji.bfu_kotlin_labs.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
