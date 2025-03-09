@@ -1,4 +1,4 @@
-package com.alkl1m.bfu_kotlin_labs
+package com.maji.bfu_kotlin_labs
 
 import android.content.Context
 import android.content.Intent

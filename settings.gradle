@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "BFU-Kotlin-Labs"
+rootProject.name = "BFU-Kotlin"
 include ':app'
